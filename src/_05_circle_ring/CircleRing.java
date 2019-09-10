@@ -42,7 +42,7 @@ public class CircleRing {
 		garhy.setRandomPenColor();
 		garhy.penDown();
 		// 4. Set the robot’s speed to 10
-		garhy.setSpeed(100);
+		garhy.setSpeed(1000000000);
 		// 5. Do everything below here 360 times (use i as the counter)
 		for (int i = 0; i < 360; i++) {
 			garhy.move(3);
