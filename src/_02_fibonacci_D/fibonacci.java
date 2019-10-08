@@ -1,4 +1,4 @@
-package _02_fibonacci;
+package _02_fibonacci_D;
 
 public class fibonacci {
 	public static void main(String[] args) {

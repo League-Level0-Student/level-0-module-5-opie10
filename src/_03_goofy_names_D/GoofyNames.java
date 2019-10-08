@@ -1,4 +1,4 @@
-package _03_goofy_names;
+package _03_goofy_names_D;
 /*
  *    Copyright (c) The League of Amazing Programmers 2013-2017
  *    Level 0

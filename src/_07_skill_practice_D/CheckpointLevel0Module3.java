@@ -1,4 +1,4 @@
-package _07_skill_practice;
+package _07_skill_practice_D;
 
 public class CheckpointLevel0Module3 {
 public static void main(String[] args) {

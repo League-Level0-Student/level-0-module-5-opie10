@@ -1,4 +1,4 @@
-package _01_prime_or_not;
+package _01_prime_or_not_D;
 
 import javax.swing.JOptionPane;
 

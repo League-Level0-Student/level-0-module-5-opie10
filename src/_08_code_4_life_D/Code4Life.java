@@ -1,4 +1,4 @@
-package _08_code_4_life;
+package _08_code_4_life_D;
 
 /*
  *    Copyright (c) The League of Amazing Programmers 2013-2017

@@ -1,4 +1,4 @@
-package _05_circle_ring;
+package _05_circle_ring_D;
 /*
  *    Copyright (c) The League of Amazing Programmers 2013-2017
  *    Level 0
@@ -44,6 +44,7 @@ public class CircleRing {
 		// 4. Set the robot’s speed to 10
 		garhy.setSpeed(1000000000);
 		// 5. Do everything below here 360 times (use i as the counter)
+		
 		for (int i = 0; i < 360; i++) {
 			garhy.move(3);
 			garhy.turn(1);
